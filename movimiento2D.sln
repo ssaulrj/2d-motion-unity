@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movimiento2D", "Assembly-CSharp.csproj", "{291619F6-E278-BA6B-B0B0-4A025FE8C4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291619F6-E278-BA6B-B0B0-4A025FE8C4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291619F6-E278-BA6B-B0B0-4A025FE8C4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291619F6-E278-BA6B-B0B0-4A025FE8C4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291619F6-E278-BA6B-B0B0-4A025FE8C4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
